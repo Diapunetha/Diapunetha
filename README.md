@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Diapunetha
-- 👀 I’m interested in DSA and web development.
+- 👀 I’m interested in exploring and learning.
 - 🌱 I’m currently learning open source contributions and exploring machine learning.
 - 💞️ I’m looking to collaborate on new projects.
 - 📫 How to reach me : LinkedIn - https://www.linkedin.com/in/diya-punetha-0603a1250/
